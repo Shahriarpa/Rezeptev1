@@ -1,0 +1,3240 @@
+[
+  {
+    "z": "Tofu",
+    "k": "Gericht",
+    "q": "Asiatisch",
+    "zu": [
+      "Brokkoli",
+      "Karotte",
+      "Paprika",
+      "Reis"
+    ],
+    "g": [
+      "Sojasauce",
+      "Ingwer",
+      "Knoblauch",
+      "Sesamöl"
+    ],
+    "e": "Knuspriger Tofu nimmt die würzige Sojasauce auf und passt gut zu süßlicher Karotte und knackigem Brokkoli.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Tofu würfeln und in etwas Öl von allen Seiten goldbraun braten.",
+      "Karotte, Paprika und Brokkoli klein schneiden und dazugeben.",
+      "Sojasauce, Ingwer, Knoblauch und Sesamöl einrühren und einige Minuten braten."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Reis"
+  },
+  {
+    "z": "Tofu",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Zucchini",
+      "Tomate",
+      "Paprika",
+      "Zwiebel"
+    ],
+    "g": [
+      "Olivenöl",
+      "Oregano",
+      "Knoblauch",
+      "Salz"
+    ],
+    "e": "Saftige Tomate und mildes Gemüse geben dem Tofu viel Geschmack, während Oregano für eine würzige Note sorgt.",
+    "s": [
+      "Tofu würfeln und in Olivenöl anbraten.",
+      "Zucchini, Paprika und Zwiebel klein schneiden und dazugeben.",
+      "Tomaten würfeln und mitkochen.",
+      "Mit Oregano und Knoblauch würzen und einige Minuten köcheln lassen."
+    ],
+    "t": 25,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Tofu",
+    "k": "Salat",
+    "q": "Andere",
+    "zu": [
+      "Gurke",
+      "Karotte",
+      "Avocado",
+      "Frühlingszwiebel"
+    ],
+    "g": [
+      "Limettensaft",
+      "Sojasauce",
+      "Sesamöl",
+      "Pfeffer"
+    ],
+    "e": "Cremige Avocado und knackige Gurke ergänzen den milden Tofu, während Limette für Frische sorgt.",
+    "s": [
+      "Tofu würfeln und kurz in der Pfanne anbraten.",
+      "Gurke und Karotte in dünne Streifen schneiden.",
+      "Avocado und Frühlingszwiebel klein schneiden.",
+      "Alles mischen und mit Limettensaft, Sojasauce und Sesamöl würzen."
+    ],
+    "t": 15,
+    "d": "Einfach",
+    "b": "pur"
+  },
+  {
+    "z": "Kichererbsen",
+    "k": "Salat",
+    "q": "Orientalisch",
+    "zu": [
+      "Gurke",
+      "Tomate",
+      "Petersilie",
+      "rote Zwiebel"
+    ],
+    "g": [
+      "Zitronensaft",
+      "Olivenöl",
+      "Kreuzkümmel",
+      "Salz"
+    ],
+    "e": "Kichererbsen machen den Salat sättigend und Zitrone und Gurke bringen frische Gegensätze.",
+    "s": [
+      "Gurke und Tomate klein schneiden.",
+      "Zwiebel fein schneiden und Petersilie hacken.",
+      "Kichererbsen abspülen und mit dem Gemüse mischen.",
+      "Mit Zitronensaft, Olivenöl und Kreuzkümmel würzen."
+    ],
+    "t": 10,
+    "d": "Einfach",
+    "b": "Fladenbrot"
+  },
+  {
+    "z": "Kichererbsen",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Zucchini",
+      "Tomate",
+      "Spinat",
+      "Zwiebel"
+    ],
+    "g": [
+      "Olivenöl",
+      "Knoblauch",
+      "Oregano",
+      "Salz"
+    ],
+    "e": "Tomate macht die Kichererbsen saftig und Zucchini und Spinat sorgen für mildes Gemüse.",
+    "s": [
+      "Zwiebel und Zucchini klein schneiden und anbraten.",
+      "Tomaten und Knoblauch dazugeben und kurz köcheln lassen.",
+      "Kichererbsen und Spinat einrühren.",
+      "Mit Oregano und Salz würzen und einige Minuten garen."
+    ],
+    "t": 25,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Kichererbsen",
+    "k": "Gericht",
+    "q": "Asiatisch",
+    "zu": [
+      "Kokosmilch",
+      "Spinat",
+      "Karotte",
+      "Reis"
+    ],
+    "g": [
+      "Currypulver",
+      "Ingwer",
+      "Knoblauch",
+      "Sojasauce"
+    ],
+    "e": "Cremige Kokosmilch mildert die kräftige Würze und passt gut zu den nussigen Kichererbsen.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Karotte klein schneiden und mit Ingwer und Knoblauch anbraten.",
+      "Kichererbsen und Kokosmilch dazugeben.",
+      "Spinat unterheben und mit Currypulver und Sojasauce würzen."
+    ],
+    "t": 25,
+    "d": "Einfach",
+    "b": "Reis"
+  },
+  {
+    "z": "Feta",
+    "k": "Salat",
+    "q": "Mittelmeer",
+    "zu": [
+      "Tomate",
+      "Gurke",
+      "Oliven",
+      "rote Zwiebel"
+    ],
+    "g": [
+      "Olivenöl",
+      "Zitronensaft",
+      "Oregano",
+      "Pfeffer"
+    ],
+    "e": "Feta bringt Salz und Cremigkeit, während Tomate und Gurke für Frische sorgen.",
+    "s": [
+      "Tomate und Gurke klein schneiden.",
+      "Zwiebel in dünne Streifen schneiden.",
+      "Oliven und zerbröselten Feta dazugeben.",
+      "Mit Olivenöl, Zitronensaft und Oregano mischen."
+    ],
+    "t": 10,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Feta",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Kartoffel",
+      "Spinat",
+      "Tomate",
+      "Zwiebel"
+    ],
+    "g": [
+      "Olivenöl",
+      "Knoblauch",
+      "Oregano",
+      "Pfeffer"
+    ],
+    "e": "Cremiger Feta passt zu weichen Kartoffeln und bekommt durch Tomate und Spinat frische Begleiter.",
+    "s": [
+      "Kartoffeln würfeln und weich kochen.",
+      "Zwiebel in Olivenöl anbraten und Spinat dazugeben.",
+      "Tomaten würfeln und kurz mitgaren.",
+      "Kartoffeln und Feta unterheben und würzen."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Feta",
+    "k": "Gericht",
+    "q": "Orientalisch",
+    "zu": [
+      "Couscous",
+      "Paprika",
+      "Zucchini",
+      "Kichererbsen"
+    ],
+    "g": [
+      "Olivenöl",
+      "Kreuzkümmel",
+      "Paprikapulver",
+      "Zitronensaft"
+    ],
+    "e": "Feta bringt salzigen Geschmack und passt zu süßlicher Paprika und würzigem Kreuzkümmel.",
+    "s": [
+      "Couscous nach Packungsangabe quellen lassen.",
+      "Paprika und Zucchini klein schneiden und anbraten.",
+      "Kichererbsen dazugeben und erwärmen.",
+      "Couscous und Feta untermischen und mit Kreuzkümmel und Zitronensaft würzen."
+    ],
+    "t": 25,
+    "d": "Einfach",
+    "b": "Couscous"
+  },
+  {
+    "z": "Mozzarella",
+    "k": "Salat",
+    "q": "Mittelmeer",
+    "zu": [
+      "Tomate",
+      "Basilikum",
+      "Rucola",
+      "rote Zwiebel"
+    ],
+    "g": [
+      "Olivenöl",
+      "Balsamico",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Cremiger Mozzarella mildert die saftige Tomate und Basilikum bringt ein frisches Aroma.",
+    "s": [
+      "Tomaten in Stücke schneiden.",
+      "Rucola waschen und Zwiebel fein schneiden.",
+      "Mozzarella zupfen und mit dem Gemüse mischen.",
+      "Basilikum dazugeben und mit Olivenöl und Balsamico würzen."
+    ],
+    "t": 10,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Mozzarella",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Pasta",
+      "Tomate",
+      "Zucchini",
+      "Knoblauch"
+    ],
+    "g": [
+      "Olivenöl",
+      "Basilikum",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Mozzarella schmilzt cremig und passt zu süßer Tomate und milden Zucchini.",
+    "s": [
+      "Pasta nach Packungsangabe kochen.",
+      "Zucchini klein schneiden und mit Knoblauch anbraten.",
+      "Tomaten dazugeben und einige Minuten köcheln lassen.",
+      "Pasta und Mozzarella untermischen und mit Basilikum würzen."
+    ],
+    "t": 25,
+    "d": "Einfach",
+    "b": "Pasta"
+  },
+  {
+    "z": "Mozzarella",
+    "k": "Gericht",
+    "q": "Andere",
+    "zu": [
+      "Brot",
+      "Ei",
+      "Tomate",
+      "Spinat"
+    ],
+    "g": [
+      "Olivenöl",
+      "Salz",
+      "Pfeffer",
+      "Paprikapulver"
+    ],
+    "e": "Mozzarella wird weich und cremig und ergänzt das Ei sowie die frischen Tomaten.",
+    "s": [
+      "Tomate und Spinat klein schneiden.",
+      "Ei verquirlen und in einer Pfanne kurz stocken lassen.",
+      "Tomate und Spinat dazugeben und kurz mitbraten.",
+      "Mozzarella darauflegen und schmelzen lassen, dann mit Brot servieren."
+    ],
+    "t": 15,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Naturjoghurt",
+    "k": "Salat",
+    "q": "Orientalisch",
+    "zu": [
+      "Gurke",
+      "Tomate",
+      "Minze",
+      "rote Zwiebel"
+    ],
+    "g": [
+      "Zitronensaft",
+      "Knoblauch",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Joghurt macht den Salat cremig und Gurke und Zitrone sorgen für viel Frische.",
+    "s": [
+      "Gurke und Tomate klein schneiden.",
+      "Zwiebel fein schneiden und Minze hacken.",
+      "Joghurt mit Zitronensaft und Knoblauch verrühren.",
+      "Alles mischen und mit Salz und Pfeffer würzen."
+    ],
+    "t": 10,
+    "d": "Einfach",
+    "b": "Fladenbrot"
+  },
+  {
+    "z": "Naturjoghurt",
+    "k": "Gericht",
+    "q": "Orientalisch",
+    "zu": [
+      "Kichererbsen",
+      "Spinat",
+      "Tomate",
+      "Reis"
+    ],
+    "g": [
+      "Kreuzkümmel",
+      "Knoblauch",
+      "Kurkuma",
+      "Salz"
+    ],
+    "e": "Joghurt bringt Cremigkeit zu den würzigen Kichererbsen und mildert den Geschmack der Gewürze.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Tomate und Kichererbsen mit Knoblauch erwärmen.",
+      "Spinat dazugeben und zusammenfallen lassen.",
+      "Joghurt unterheben und mit Kreuzkümmel und Kurkuma würzen."
+    ],
+    "t": 25,
+    "d": "Einfach",
+    "b": "Reis"
+  },
+  {
+    "z": "Naturjoghurt",
+    "k": "Salat",
+    "q": "Andere",
+    "zu": [
+      "Kartoffel",
+      "Gurke",
+      "Radieschen",
+      "Frühlingszwiebel"
+    ],
+    "g": [
+      "Senf",
+      "Zitronensaft",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Cremiger Joghurt verbindet die milden Kartoffeln mit knackiger Gurke und Radieschen.",
+    "s": [
+      "Kartoffeln weich kochen und abkühlen lassen.",
+      "Gurke, Radieschen und Frühlingszwiebel schneiden.",
+      "Joghurt mit Senf und Zitronensaft verrühren.",
+      "Alles mischen und mit Salz und Pfeffer würzen."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Frischkäse",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Pasta",
+      "Spinat",
+      "Tomate",
+      "Zwiebel"
+    ],
+    "g": [
+      "Olivenöl",
+      "Knoblauch",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Frischkäse macht die Pasta cremig und Spinat und Tomate bringen frische und herzhafte Aromen.",
+    "s": [
+      "Pasta nach Packungsangabe kochen.",
+      "Zwiebel und Knoblauch in Olivenöl anbraten.",
+      "Spinat und Tomate dazugeben und kurz garen.",
+      "Frischkäse und etwas Nudelwasser einrühren und die Pasta untermischen."
+    ],
+    "t": 20,
+    "d": "Einfach",
+    "b": "Pasta"
+  },
+  {
+    "z": "Frischkäse",
+    "k": "Gericht",
+    "q": "Andere",
+    "zu": [
+      "Kartoffel",
+      "Brokkoli",
+      "Karotte",
+      "Zwiebel"
+    ],
+    "g": [
+      "Muskat",
+      "Salz",
+      "Pfeffer",
+      "Petersilie"
+    ],
+    "e": "Frischkäse macht das Gemüse cremig und Kartoffeln sorgen für einen milden, sättigenden Geschmack.",
+    "s": [
+      "Kartoffeln und Karotten klein schneiden und weich kochen.",
+      "Brokkoli kurz mitgaren.",
+      "Zwiebel anbraten und Frischkäse dazugeben.",
+      "Gemüse unterheben und mit Muskat und Petersilie würzen."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Frischkäse",
+    "k": "Salat",
+    "q": "Andere",
+    "zu": [
+      "Gurke",
+      "Tomate",
+      "Mais",
+      "Ei"
+    ],
+    "g": [
+      "Zitronensaft",
+      "Senf",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Cremiger Frischkäse verbindet süßen Mais mit frischer Gurke und saftiger Tomate.",
+    "s": [
+      "Ei hart kochen und abkühlen lassen.",
+      "Gurke und Tomate klein schneiden.",
+      "Ei würfeln und mit Mais und Gemüse mischen.",
+      "Frischkäse mit Zitronensaft und Senf verrühren und unterheben."
+    ],
+    "t": 15,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Zitrone",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Hähnchenbrust",
+      "Kartoffel",
+      "Spinat",
+      "Knoblauch"
+    ],
+    "g": [
+      "Olivenöl",
+      "Rosmarin",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Zitrone macht das zarte Hähnchen frischer und passt gut zu Kartoffeln und Spinat.",
+    "s": [
+      "Kartoffeln klein schneiden und in Wasser weich kochen.",
+      "Hähnchen in Stücke schneiden und vollständig durchgaren.",
+      "Spinat und Knoblauch dazugeben und kurz mitbraten.",
+      "Mit Zitronensaft, Olivenöl und Rosmarin würzen und mit Kartoffeln servieren."
+    ],
+    "t": 30,
+    "d": "Mittel",
+    "b": "Kartoffeln"
+  },
+  {
+    "z": "Zitrone",
+    "k": "Salat",
+    "q": "Orientalisch",
+    "zu": [
+      "Couscous",
+      "Gurke",
+      "Tomate",
+      "Petersilie"
+    ],
+    "g": [
+      "Olivenöl",
+      "Kreuzkümmel",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Zitrone macht den Couscous frisch und verbindet sich gut mit knackiger Gurke und süßer Tomate.",
+    "s": [
+      "Couscous nach Packungsangabe quellen lassen.",
+      "Gurke und Tomate klein schneiden.",
+      "Petersilie hacken und mit dem Couscous mischen.",
+      "Zitronensaft, Olivenöl und Kreuzkümmel unterrühren."
+    ],
+    "t": 15,
+    "d": "Einfach",
+    "b": "Fladenbrot"
+  },
+  {
+    "z": "Zitrone",
+    "k": "Gericht",
+    "q": "Asiatisch",
+    "zu": [
+      "Reis",
+      "Garnelen",
+      "Brokkoli",
+      "Karotte"
+    ],
+    "g": [
+      "Sojasauce",
+      "Ingwer",
+      "Knoblauch",
+      "Sesamöl"
+    ],
+    "e": "Zitrone bringt Frische zu den milden Garnelen und gleicht die würzige Sojasauce aus.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Garnelen in einer Pfanne garen, bis sie vollständig durchgegart sind.",
+      "Brokkoli und Karotte dazugeben und bissfest braten.",
+      "Sojasauce, Ingwer, Knoblauch und Zitronensaft einrühren und mit Reis servieren."
+    ],
+    "t": 25,
+    "d": "Mittel",
+    "b": "Reis"
+  },
+  {
+    "z": "Avocado",
+    "k": "Salat",
+    "q": "Mittelmeer",
+    "zu": [
+      "Tomate",
+      "Gurke",
+      "Feta",
+      "rote Zwiebel"
+    ],
+    "g": [
+      "Olivenöl",
+      "Zitronensaft",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Cremige Avocado passt zu saftiger Tomate und salzigem Feta, während Zitrone für Frische sorgt.",
+    "s": [
+      "Avocado und Tomate würfeln.",
+      "Gurke und Zwiebel klein schneiden.",
+      "Feta zerbröseln und alles vorsichtig mischen.",
+      "Mit Zitronensaft, Olivenöl, Salz und Pfeffer würzen."
+    ],
+    "t": 10,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Avocado",
+    "k": "Salat",
+    "q": "Asiatisch",
+    "zu": [
+      "Gurke",
+      "Karotte",
+      "Reis",
+      "Frühlingszwiebel"
+    ],
+    "g": [
+      "Sojasauce",
+      "Limettensaft",
+      "Sesamöl",
+      "Ingwer"
+    ],
+    "e": "Avocado macht den Reissalat cremig und Limette und Sojasauce geben ihm frische Würze.",
+    "s": [
+      "Reis nach Packungsangabe kochen und abkühlen lassen.",
+      "Gurke und Karotte klein schneiden.",
+      "Avocado und Frühlingszwiebel schneiden und mit dem Reis mischen.",
+      "Mit Sojasauce, Limettensaft, Sesamöl und Ingwer würzen."
+    ],
+    "t": 20,
+    "d": "Einfach",
+    "b": "pur"
+  },
+  {
+    "z": "Avocado",
+    "k": "Gericht",
+    "q": "Andere",
+    "zu": [
+      "Ei",
+      "Brot",
+      "Tomate",
+      "Spinat"
+    ],
+    "g": [
+      "Olivenöl",
+      "Zitronensaft",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Cremige Avocado passt gut zu Ei und wird durch frische Tomate und Zitrone ausgeglichen.",
+    "s": [
+      "Brot toasten.",
+      "Spinat kurz in Olivenöl zusammenfallen lassen.",
+      "Ei braten oder rühren und vollständig stocken lassen.",
+      "Avocado zerdrücken und mit Zitronensaft würzen, dann mit Ei, Spinat und Tomate auf dem Brot servieren."
+    ],
+    "t": 15,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Apfel",
+    "k": "Salat",
+    "q": "Andere",
+    "zu": [
+      "Gurke",
+      "Karotte",
+      "Naturjoghurt",
+      "Walnüsse"
+    ],
+    "g": [
+      "Zitronensaft",
+      "Honig",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Süßer Apfel passt zu knackiger Gurke und Karotte und wird durch cremigen Joghurt abgerundet.",
+    "s": [
+      "Apfel, Gurke und Karotte klein schneiden.",
+      "Joghurt mit Zitronensaft und etwas Honig verrühren.",
+      "Alles miteinander mischen.",
+      "Walnüsse darüberstreuen und leicht würzen."
+    ],
+    "t": 10,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Apfel",
+    "k": "Salat",
+    "q": "Orientalisch",
+    "zu": [
+      "Couscous",
+      "Kichererbsen",
+      "Gurke",
+      "Petersilie"
+    ],
+    "g": [
+      "Zitronensaft",
+      "Olivenöl",
+      "Kreuzkümmel",
+      "Salz"
+    ],
+    "e": "Der süße Apfel gibt dem Couscous Frische und bildet einen schönen Gegensatz zu würzigen Kichererbsen.",
+    "s": [
+      "Couscous nach Packungsangabe quellen lassen.",
+      "Apfel und Gurke klein schneiden.",
+      "Kichererbsen und Petersilie unterheben.",
+      "Mit Zitronensaft, Olivenöl und Kreuzkümmel würzen."
+    ],
+    "t": 15,
+    "d": "Einfach",
+    "b": "Fladenbrot"
+  },
+  {
+    "z": "Apfel",
+    "k": "Gericht",
+    "q": "Andere",
+    "zu": [
+      "Kartoffel",
+      "Zwiebel",
+      "Linsen",
+      "Karotte"
+    ],
+    "g": [
+      "Brühe",
+      "Majoran",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Süßer Apfel passt überraschend gut zu herzhaften Kartoffeln und Linsen und gibt ihnen eine frische Note.",
+    "s": [
+      "Kartoffeln und Karotten würfeln.",
+      "Zwiebel anbraten und Kartoffeln und Karotten dazugeben.",
+      "Linsen und Brühe einrühren und alles weich kochen.",
+      "Apfel würfeln, kurz mitkochen und mit Majoran würzen."
+    ],
+    "t": 35,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Reis",
+    "k": "Gericht",
+    "q": "Asiatisch",
+    "zu": [
+      "Hähnchenbrust",
+      "Brokkoli",
+      "Karotte",
+      "Frühlingszwiebel"
+    ],
+    "g": [
+      "Sojasauce",
+      "Ingwer",
+      "Knoblauch",
+      "Sesamöl"
+    ],
+    "e": "Reis nimmt die würzige Sauce auf und passt gut zu zartem Hähnchen und knackigem Gemüse.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Hähnchen klein schneiden und vollständig durchgaren.",
+      "Brokkoli und Karotte dazugeben und bissfest braten.",
+      "Sojasauce, Ingwer, Knoblauch und Frühlingszwiebel einrühren."
+    ],
+    "t": 30,
+    "d": "Mittel",
+    "b": "Reis"
+  },
+  {
+    "z": "Reis",
+    "k": "Gericht",
+    "q": "Orientalisch",
+    "zu": [
+      "Kichererbsen",
+      "Tomate",
+      "Spinat",
+      "Zwiebel"
+    ],
+    "g": [
+      "Kreuzkümmel",
+      "Kurkuma",
+      "Paprikapulver",
+      "Salz"
+    ],
+    "e": "Reis und Kichererbsen machen satt und Tomate und Spinat geben dem Gericht frische Farbe und Geschmack.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Zwiebel anbraten und Tomate dazugeben.",
+      "Kichererbsen und Spinat einrühren.",
+      "Mit Kreuzkümmel, Kurkuma und Paprikapulver würzen und mit Reis servieren."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Reis"
+  },
+  {
+    "z": "Reis",
+    "k": "Salat",
+    "q": "Andere",
+    "zu": [
+      "Mais",
+      "Gurke",
+      "Paprika",
+      "Feta"
+    ],
+    "g": [
+      "Olivenöl",
+      "Zitronensaft",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Reis macht den Salat sättigend und Mais und Gurke sorgen für süße und frische Bissen.",
+    "s": [
+      "Reis kochen und abkühlen lassen.",
+      "Gurke und Paprika klein schneiden.",
+      "Mais und Feta mit dem Reis mischen.",
+      "Mit Zitronensaft, Olivenöl, Salz und Pfeffer würzen."
+    ],
+    "t": 20,
+    "d": "Einfach",
+    "b": "pur"
+  },
+  {
+    "z": "Pasta",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Tomate",
+      "Mozzarella",
+      "Basilikum",
+      "Zwiebel"
+    ],
+    "g": [
+      "Olivenöl",
+      "Knoblauch",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Saftige Tomate und cremiger Mozzarella machen die Pasta einfach und aromatisch.",
+    "s": [
+      "Pasta nach Packungsangabe kochen.",
+      "Zwiebel und Knoblauch in Olivenöl anbraten.",
+      "Tomaten dazugeben und einige Minuten köcheln lassen.",
+      "Pasta und Mozzarella untermischen und mit Basilikum würzen."
+    ],
+    "t": 25,
+    "d": "Einfach",
+    "b": "Pasta"
+  },
+  {
+    "z": "Pasta",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Spinat",
+      "Frischkäse",
+      "Tomate",
+      "Knoblauch"
+    ],
+    "g": [
+      "Olivenöl",
+      "Muskat",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Frischkäse macht die Pasta cremig und Spinat und Tomate bringen kräftige Gegensätze.",
+    "s": [
+      "Pasta nach Packungsangabe kochen.",
+      "Knoblauch kurz in Olivenöl anbraten.",
+      "Spinat und Tomate dazugeben und garen.",
+      "Frischkäse einrühren und die Pasta unterheben, dann mit Muskat würzen."
+    ],
+    "t": 20,
+    "d": "Einfach",
+    "b": "Pasta"
+  },
+  {
+    "z": "Pasta",
+    "k": "Salat",
+    "q": "Mittelmeer",
+    "zu": [
+      "Gurke",
+      "Tomate",
+      "Mais",
+      "Feta"
+    ],
+    "g": [
+      "Olivenöl",
+      "Zitronensaft",
+      "Oregano",
+      "Pfeffer"
+    ],
+    "e": "Kühle Gurke und saftige Tomate machen den Nudelsalat frisch und Feta bringt würzige Cremigkeit.",
+    "s": [
+      "Pasta nach Packungsangabe kochen und abkühlen lassen.",
+      "Gurke und Tomate klein schneiden.",
+      "Mais und Feta mit der Pasta mischen.",
+      "Mit Olivenöl, Zitronensaft und Oregano würzen."
+    ],
+    "t": 20,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Brot",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Tomate",
+      "Mozzarella",
+      "Basilikum",
+      "Zwiebel"
+    ],
+    "g": [
+      "Olivenöl",
+      "Oregano",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Knuspriges Brot passt zu saftiger Tomate und cremigem Mozzarella und wird durch Kräuter aromatisch.",
+    "s": [
+      "Brot in Scheiben schneiden und toasten.",
+      "Tomate und Mozzarella schneiden.",
+      "Zwiebel fein schneiden und darüber verteilen.",
+      "Mit Olivenöl und Oregano würzen und kurz im Ofen erwärmen."
+    ],
+    "t": 15,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Brot",
+    "k": "Gericht",
+    "q": "Orientalisch",
+    "zu": [
+      "Kichererbsen",
+      "Tomate",
+      "Gurke",
+      "Petersilie"
+    ],
+    "g": [
+      "Tahini",
+      "Zitronensaft",
+      "Knoblauch",
+      "Salz"
+    ],
+    "e": "Kichererbsen machen das Brot sättigend und Tahini und Zitrone sorgen für einen kräftigen cremigen Geschmack.",
+    "s": [
+      "Kichererbsen abspülen und zerdrücken.",
+      "Tahini mit Zitronensaft und Knoblauch verrühren.",
+      "Tomate und Gurke klein schneiden.",
+      "Kichererbsen auf das Brot streichen und Gemüse und Petersilie daraufgeben."
+    ],
+    "t": 10,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Brot",
+    "k": "Salat",
+    "q": "Andere",
+    "zu": [
+      "Ei",
+      "Gurke",
+      "Tomate",
+      "Avocado"
+    ],
+    "g": [
+      "Zitronensaft",
+      "Olivenöl",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Avocado macht den Salat cremig und Ei sorgt für einen milden, sättigenden Geschmack.",
+    "s": [
+      "Ei hart kochen und abkühlen lassen.",
+      "Gurke, Tomate und Avocado schneiden.",
+      "Ei würfeln und mit dem Gemüse mischen.",
+      "Mit Zitronensaft und Olivenöl würzen und mit Brot servieren."
+    ],
+    "t": 15,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Couscous",
+    "k": "Salat",
+    "q": "Orientalisch",
+    "zu": [
+      "Gurke",
+      "Tomate",
+      "Kichererbsen",
+      "Petersilie"
+    ],
+    "g": [
+      "Zitronensaft",
+      "Olivenöl",
+      "Kreuzkümmel",
+      "Salz"
+    ],
+    "e": "Couscous nimmt die frische Zitronenwürze auf und Kichererbsen machen den Salat sättigend.",
+    "s": [
+      "Couscous nach Packungsangabe quellen lassen.",
+      "Gurke und Tomate klein schneiden.",
+      "Kichererbsen und Petersilie untermischen.",
+      "Mit Zitronensaft, Olivenöl und Kreuzkümmel würzen."
+    ],
+    "t": 15,
+    "d": "Einfach",
+    "b": "Fladenbrot"
+  },
+  {
+    "z": "Couscous",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Zucchini",
+      "Paprika",
+      "Tomate",
+      "Feta"
+    ],
+    "g": [
+      "Olivenöl",
+      "Oregano",
+      "Knoblauch",
+      "Salz"
+    ],
+    "e": "Mildes Gemüse passt gut zum Couscous und Feta gibt dem Gericht salzigen Geschmack.",
+    "s": [
+      "Couscous nach Packungsangabe quellen lassen.",
+      "Zucchini und Paprika anbraten.",
+      "Tomate und Knoblauch dazugeben und kurz köcheln lassen.",
+      "Couscous und Feta unterheben und mit Oregano würzen."
+    ],
+    "t": 25,
+    "d": "Einfach",
+    "b": "Couscous"
+  },
+  {
+    "z": "Couscous",
+    "k": "Gericht",
+    "q": "Andere",
+    "zu": [
+      "Hähnchenbrust",
+      "Karotte",
+      "Zucchini",
+      "Zwiebel"
+    ],
+    "g": [
+      "Paprikapulver",
+      "Kreuzkümmel",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Couscous ist mild und nimmt den Geschmack von würzigem Hähnchen und süßer Karotte gut auf.",
+    "s": [
+      "Couscous nach Packungsangabe zubereiten.",
+      "Hähnchen klein schneiden und vollständig durchgaren.",
+      "Karotte, Zucchini und Zwiebel dazugeben und weich braten.",
+      "Couscous untermischen und mit Paprikapulver und Kreuzkümmel würzen."
+    ],
+    "t": 30,
+    "d": "Mittel",
+    "b": "Couscous"
+  },
+  {
+    "z": "Linsen",
+    "k": "Gericht",
+    "q": "Orientalisch",
+    "zu": [
+      "Tomate",
+      "Karotte",
+      "Zwiebel",
+      "Spinat"
+    ],
+    "g": [
+      "Kreuzkümmel",
+      "Kurkuma",
+      "Knoblauch",
+      "Salz"
+    ],
+    "e": "Linsen sind herzhaft und passen zu süßer Karotte und warmer Würze, während Spinat Frische bringt.",
+    "s": [
+      "Zwiebel und Karotte klein schneiden und anbraten.",
+      "Tomaten und Linsen dazugeben.",
+      "Mit Wasser bedecken und weich kochen.",
+      "Spinat unterheben und mit Kreuzkümmel und Kurkuma würzen."
+    ],
+    "t": 35,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Linsen",
+    "k": "Salat",
+    "q": "Mittelmeer",
+    "zu": [
+      "Gurke",
+      "Tomate",
+      "Feta",
+      "Petersilie"
+    ],
+    "g": [
+      "Olivenöl",
+      "Zitronensaft",
+      "Oregano",
+      "Pfeffer"
+    ],
+    "e": "Linsen machen den Salat sättigend und Feta und Zitrone geben ihnen frische würzige Gegensätze.",
+    "s": [
+      "Linsen nach Packungsangabe gar kochen und abkühlen lassen.",
+      "Gurke und Tomate klein schneiden.",
+      "Feta und Petersilie unterheben.",
+      "Mit Zitronensaft, Olivenöl und Oregano würzen."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Linsen",
+    "k": "Gericht",
+    "q": "Andere",
+    "zu": [
+      "Kartoffel",
+      "Karotte",
+      "Lauch",
+      "Zwiebel"
+    ],
+    "g": [
+      "Brühe",
+      "Majoran",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Kartoffeln und Karotten machen den Linseneintopf mild und sättigend und Lauch bringt eine leichte Süße.",
+    "s": [
+      "Kartoffeln und Karotten würfeln.",
+      "Lauch und Zwiebel klein schneiden und anbraten.",
+      "Linsen, Gemüse und Brühe dazugeben und weich kochen.",
+      "Mit Majoran, Salz und Pfeffer würzen."
+    ],
+    "t": 40,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Quinoa",
+    "k": "Salat",
+    "q": "Mittelmeer",
+    "zu": [
+      "Tomate",
+      "Gurke",
+      "Feta",
+      "Petersilie"
+    ],
+    "g": [
+      "Olivenöl",
+      "Zitronensaft",
+      "Oregano",
+      "Pfeffer"
+    ],
+    "e": "Quinoa hat einen milden Geschmack und passt zu saftiger Tomate, knackiger Gurke und salzigem Feta.",
+    "s": [
+      "Quinoa nach Packungsangabe kochen und abkühlen lassen.",
+      "Tomate und Gurke klein schneiden.",
+      "Feta und Petersilie unterheben.",
+      "Mit Zitronensaft, Olivenöl und Oregano würzen."
+    ],
+    "t": 20,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Quinoa",
+    "k": "Gericht",
+    "q": "Asiatisch",
+    "zu": [
+      "Brokkoli",
+      "Karotte",
+      "Tofu",
+      "Frühlingszwiebel"
+    ],
+    "g": [
+      "Sojasauce",
+      "Ingwer",
+      "Knoblauch",
+      "Sesamöl"
+    ],
+    "e": "Quinoa nimmt die würzige Sauce auf und passt gut zu Tofu und knackigem Gemüse.",
+    "s": [
+      "Quinoa nach Packungsangabe kochen.",
+      "Tofu würfeln und anbraten.",
+      "Brokkoli und Karotte dazugeben und bissfest garen.",
+      "Frühlingszwiebel und Würzmittel einrühren und mit Quinoa servieren."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Quinoa"
+  },
+  {
+    "z": "Quinoa",
+    "k": "Salat",
+    "q": "Orientalisch",
+    "zu": [
+      "Kichererbsen",
+      "Gurke",
+      "Paprika",
+      "Petersilie"
+    ],
+    "g": [
+      "Zitronensaft",
+      "Olivenöl",
+      "Kreuzkümmel",
+      "Salz"
+    ],
+    "e": "Kichererbsen machen Quinoa sättigend und Kreuzkümmel gibt dem frischen Gemüse mehr Geschmack.",
+    "s": [
+      "Quinoa nach Packungsangabe kochen und abkühlen lassen.",
+      "Gurke und Paprika klein schneiden.",
+      "Kichererbsen und Petersilie dazugeben.",
+      "Alles mischen und mit Zitronensaft, Olivenöl und Kreuzkümmel würzen."
+    ],
+    "t": 20,
+    "d": "Einfach",
+    "b": "Fladenbrot"
+  },
+  {
+    "z": "Dosentomaten",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Pasta",
+      "Zucchini",
+      "Zwiebel",
+      "Parmesan"
+    ],
+    "g": [
+      "Olivenöl",
+      "Knoblauch",
+      "Oregano",
+      "Salz"
+    ],
+    "e": "Tomaten bilden eine saftige Sauce und Zucchini und Parmesan geben ihr milde und würzige Gegensätze.",
+    "s": [
+      "Pasta nach Packungsangabe kochen.",
+      "Zwiebel und Knoblauch in Olivenöl anbraten.",
+      "Dosentomaten und Zucchini dazugeben und köcheln lassen.",
+      "Pasta unterheben und mit Parmesan und Oregano servieren."
+    ],
+    "t": 25,
+    "d": "Einfach",
+    "b": "Pasta"
+  },
+  {
+    "z": "Dosentomaten",
+    "k": "Gericht",
+    "q": "Orientalisch",
+    "zu": [
+      "Kichererbsen",
+      "Spinat",
+      "Zwiebel",
+      "Reis"
+    ],
+    "g": [
+      "Kreuzkümmel",
+      "Kurkuma",
+      "Paprikapulver",
+      "Salz"
+    ],
+    "e": "Tomaten geben den Kichererbsen Saftigkeit und warme Gewürze machen das Gericht kräftig.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Zwiebel anbraten und Dosentomaten dazugeben.",
+      "Kichererbsen einrühren und einige Minuten köcheln lassen.",
+      "Spinat unterheben und mit Kreuzkümmel und Kurkuma würzen."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Reis"
+  },
+  {
+    "z": "Dosentomaten",
+    "k": "Gericht",
+    "q": "Andere",
+    "zu": [
+      "Linsen",
+      "Karotte",
+      "Kartoffel",
+      "Zwiebel"
+    ],
+    "g": [
+      "Paprikapulver",
+      "Majoran",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Tomaten machen den Linseneintopf saftig und Kartoffel und Karotte geben ihm milde Süße.",
+    "s": [
+      "Zwiebel und Karotte klein schneiden und anbraten.",
+      "Kartoffeln würfeln und mit den Linsen dazugeben.",
+      "Dosentomaten und Wasser einrühren und weich kochen.",
+      "Mit Paprikapulver und Majoran würzen."
+    ],
+    "t": 40,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Rote Bete",
+    "k": "Salat",
+    "q": "Mittelmeer",
+    "zu": [
+      "Feta",
+      "Apfel",
+      "Walnüsse",
+      "Rucola"
+    ],
+    "g": [
+      "Olivenöl",
+      "Balsamico",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Erdige Rote Bete wird durch süßen Apfel und salzigen Feta frisch und ausgewogen.",
+    "s": [
+      "Rote Bete in Würfel schneiden.",
+      "Apfel klein schneiden und Rucola waschen.",
+      "Feta und Walnüsse dazugeben.",
+      "Mit Olivenöl und Balsamico mischen und würzen."
+    ],
+    "t": 10,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Rote Bete",
+    "k": "Salat",
+    "q": "Orientalisch",
+    "zu": [
+      "Kichererbsen",
+      "Gurke",
+      "Joghurt",
+      "Petersilie"
+    ],
+    "g": [
+      "Zitronensaft",
+      "Kreuzkümmel",
+      "Knoblauch",
+      "Salz"
+    ],
+    "e": "Joghurt und Zitrone machen die kräftige Rote Bete frischer und Kichererbsen sorgen für Biss.",
+    "s": [
+      "Rote Bete und Gurke klein schneiden.",
+      "Kichererbsen abspülen und dazugeben.",
+      "Joghurt mit Zitronensaft und Knoblauch verrühren.",
+      "Alles mischen und mit Kreuzkümmel und Petersilie würzen."
+    ],
+    "t": 15,
+    "d": "Einfach",
+    "b": "Fladenbrot"
+  },
+  {
+    "z": "Rote Bete",
+    "k": "Gericht",
+    "q": "Andere",
+    "zu": [
+      "Kartoffel",
+      "Zwiebel",
+      "Apfel",
+      "Frischkäse"
+    ],
+    "g": [
+      "Brühe",
+      "Majoran",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Apfel bringt Süße zur erdigen Roten Bete und Frischkäse macht das Gericht cremig.",
+    "s": [
+      "Kartoffeln und Rote Bete würfeln.",
+      "Zwiebel anbraten und das Gemüse dazugeben.",
+      "Mit Brühe bedecken und weich kochen.",
+      "Apfel und Frischkäse einrühren und mit Majoran würzen."
+    ],
+    "t": 35,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Mais (Dose)",
+    "k": "Salat",
+    "q": "Mittelmeer",
+    "zu": [
+      "Tomate",
+      "Gurke",
+      "Feta",
+      "Paprika"
+    ],
+    "g": [
+      "Olivenöl",
+      "Zitronensaft",
+      "Oregano",
+      "Pfeffer"
+    ],
+    "e": "Süßer Mais passt zu saftiger Tomate und salzigem Feta und bekommt durch Zitrone Frische.",
+    "s": [
+      "Tomate, Gurke und Paprika klein schneiden.",
+      "Mais abspülen und mit dem Gemüse mischen.",
+      "Feta zerbröseln und dazugeben.",
+      "Mit Zitronensaft, Olivenöl und Oregano würzen."
+    ],
+    "t": 10,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Mais (Dose)",
+    "k": "Gericht",
+    "q": "Asiatisch",
+    "zu": [
+      "Reis",
+      "Ei",
+      "Karotte",
+      "Frühlingszwiebel"
+    ],
+    "g": [
+      "Sojasauce",
+      "Sesamöl",
+      "Knoblauch",
+      "Pfeffer"
+    ],
+    "e": "Mais bringt leichte Süße zum gebratenen Reis und passt gut zu Ei und würziger Sojasauce.",
+    "s": [
+      "Reis nach Packungsangabe kochen und abkühlen lassen.",
+      "Karotte und Mais anbraten.",
+      "Reis dazugeben und kurz mitbraten.",
+      "Ei unterrühren und vollständig stocken lassen und mit Sojasauce würzen."
+    ],
+    "t": 25,
+    "d": "Einfach",
+    "b": "Reis"
+  },
+  {
+    "z": "Mais (Dose)",
+    "k": "Salat",
+    "q": "Andere",
+    "zu": [
+      "Bohnen",
+      "Avocado",
+      "Tomate",
+      "rote Zwiebel"
+    ],
+    "g": [
+      "Limettensaft",
+      "Olivenöl",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Süßer Mais passt zu cremiger Avocado und kräftigen Bohnen und wird durch Limette frisch.",
+    "s": [
+      "Tomate und Avocado würfeln.",
+      "Zwiebel fein schneiden.",
+      "Mais und Bohnen mit dem Gemüse mischen.",
+      "Mit Limettensaft, Olivenöl, Salz und Pfeffer würzen."
+    ],
+    "t": 10,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Tiefkühlerbsen",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Pasta",
+      "Frischkäse",
+      "Spinat",
+      "Zwiebel"
+    ],
+    "g": [
+      "Olivenöl",
+      "Muskat",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Süße Erbsen und Frischkäse machen die Pasta mild und cremig und Spinat bringt eine frische Note.",
+    "s": [
+      "Pasta nach Packungsangabe kochen.",
+      "Zwiebel in Olivenöl anbraten.",
+      "Erbsen und Spinat dazugeben und erhitzen.",
+      "Frischkäse und etwas Nudelwasser einrühren und mit Muskat würzen."
+    ],
+    "t": 20,
+    "d": "Einfach",
+    "b": "Pasta"
+  },
+  {
+    "z": "Tiefkühlerbsen",
+    "k": "Gericht",
+    "q": "Orientalisch",
+    "zu": [
+      "Reis",
+      "Karotte",
+      "Kichererbsen",
+      "Tomate"
+    ],
+    "g": [
+      "Kreuzkümmel",
+      "Kurkuma",
+      "Knoblauch",
+      "Salz"
+    ],
+    "e": "Die süßen Erbsen passen zu Kichererbsen und warmem Kreuzkümmel und machen den Reis abwechslungsreich.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Karotte und Knoblauch anbraten.",
+      "Kichererbsen, Erbsen und Tomate dazugeben.",
+      "Reis unterheben und mit Kreuzkümmel und Kurkuma würzen."
+    ],
+    "t": 25,
+    "d": "Einfach",
+    "b": "Reis"
+  },
+  {
+    "z": "Tiefkühlerbsen",
+    "k": "Salat",
+    "q": "Andere",
+    "zu": [
+      "Kartoffel",
+      "Ei",
+      "Gurke",
+      "Frühlingszwiebel"
+    ],
+    "g": [
+      "Joghurt",
+      "Senf",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Süße Erbsen ergänzen milde Kartoffeln und frische Gurke, während Joghurt alles cremig verbindet.",
+    "s": [
+      "Kartoffeln weich kochen und abkühlen lassen.",
+      "Erbsen kurz in heißem Wasser garen und abkühlen lassen.",
+      "Ei, Gurke und Frühlingszwiebel schneiden.",
+      "Alles mit Joghurt und Senf mischen und würzen."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Weißkohl",
+    "k": "Salat",
+    "q": "Andere",
+    "zu": [
+      "Karotte",
+      "Apfel",
+      "Joghurt",
+      "Zwiebel"
+    ],
+    "g": [
+      "Zitronensaft",
+      "Kümmel",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Knackiger Kohl passt zu süßem Apfel und Karotte und Joghurt macht den Salat cremig.",
+    "s": [
+      "Weißkohl fein schneiden.",
+      "Karotte und Apfel raspeln.",
+      "Zwiebel fein schneiden und alles mischen.",
+      "Joghurt mit Zitronensaft und Kümmel verrühren und unterheben."
+    ],
+    "t": 15,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Weißkohl",
+    "k": "Gericht",
+    "q": "Asiatisch",
+    "zu": [
+      "Tofu",
+      "Karotte",
+      "Reis",
+      "Frühlingszwiebel"
+    ],
+    "g": [
+      "Sojasauce",
+      "Ingwer",
+      "Knoblauch",
+      "Sesamöl"
+    ],
+    "e": "Weißkohl bleibt leicht knackig und passt zu würziger Sojasauce und mildem Tofu.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Tofu würfeln und anbraten.",
+      "Weißkohl und Karotte in feine Streifen schneiden und dazugeben.",
+      "Sojasauce, Ingwer, Knoblauch und Sesamöl einrühren und mit Reis servieren."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Reis"
+  },
+  {
+    "z": "Weißkohl",
+    "k": "Gericht",
+    "q": "Andere",
+    "zu": [
+      "Kartoffel",
+      "Hackfleisch",
+      "Zwiebel",
+      "Karotte"
+    ],
+    "g": [
+      "Paprikapulver",
+      "Kümmel",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Weißkohl und Kartoffeln machen das kräftige Hackfleischgericht mild und sättigend.",
+    "s": [
+      "Kartoffeln und Karotten würfeln.",
+      "Hackfleisch mit Zwiebel braten, bis es vollständig durchgegart ist.",
+      "Weißkohl dazugeben und mit etwas Wasser weich kochen.",
+      "Kartoffeln und Gewürze einrühren und alles garen."
+    ],
+    "t": 40,
+    "d": "Mittel",
+    "b": "Brot"
+  },
+  {
+    "z": "Zucchini",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Feta",
+      "Tomate",
+      "Knoblauch",
+      "Zwiebel"
+    ],
+    "g": [
+      "Olivenöl",
+      "Oregano",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Feta bringt Salzigkeit und Tomate Frische, zusammen passen sie sehr gut zur milden Zucchini.",
+    "s": [
+      "Zucchini in Scheiben schneiden und in Olivenöl anbraten.",
+      "Zwiebel und Knoblauch klein schneiden und kurz mitbraten.",
+      "Tomate würfeln und dazugeben.",
+      "Feta darüberbröseln und mit Oregano würzen."
+    ],
+    "t": 20,
+    "d": "Einfach",
+    "b": "Baguette"
+  },
+  {
+    "z": "Zucchini",
+    "k": "Gericht",
+    "q": "Asiatisch",
+    "zu": [
+      "Reis",
+      "Karotte",
+      "Paprika",
+      "Frühlingszwiebel"
+    ],
+    "g": [
+      "Sojasauce",
+      "Sesamöl",
+      "Ingwer",
+      "Knoblauch"
+    ],
+    "e": "Sojasauce bringt Würze und Ingwer Frische, während Reis die gebratene Zucchini angenehm mild ergänzt.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Zucchini, Karotte und Paprika klein schneiden und in Öl anbraten.",
+      "Frühlingszwiebel dazugeben und kurz mitbraten.",
+      "Sojasauce, Ingwer und Knoblauch einrühren und mit dem Reis servieren."
+    ],
+    "t": 25,
+    "d": "Einfach",
+    "b": "Reis"
+  },
+  {
+    "z": "Zucchini",
+    "k": "Salat",
+    "q": "Andere",
+    "zu": [
+      "Gurke",
+      "Tomate",
+      "Feta",
+      "rote Zwiebel"
+    ],
+    "g": [
+      "Olivenöl",
+      "Zitronensaft",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Gurke und Tomate bringen Frische, Feta Salz und die Zucchini sorgt für einen milden Biss.",
+    "s": [
+      "Zucchini und Gurke in dünne Scheiben schneiden.",
+      "Tomate würfeln und Zwiebel fein schneiden.",
+      "Alles mit Feta mischen.",
+      "Mit Olivenöl und Zitronensaft anmachen und würzen."
+    ],
+    "t": 10,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Tomate",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Mozzarella",
+      "Basilikum",
+      "Zwiebel",
+      "Brot"
+    ],
+    "g": [
+      "Olivenöl",
+      "Salz",
+      "Pfeffer",
+      "Balsamico"
+    ],
+    "e": "Mozzarella macht die saftige Tomate cremig und Basilikum gibt ihr ein frisches Aroma.",
+    "s": [
+      "Tomaten und Mozzarella in Scheiben schneiden.",
+      "Zwiebel fein schneiden und darüber verteilen.",
+      "Basilikum darübergeben.",
+      "Mit Olivenöl, Balsamico, Salz und Pfeffer würzen und mit Brot servieren."
+    ],
+    "t": 10,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Tomate",
+    "k": "Gericht",
+    "q": "Orientalisch",
+    "zu": [
+      "Kichererbsen",
+      "Zwiebel",
+      "Paprika",
+      "Couscous"
+    ],
+    "g": [
+      "Kreuzkümmel",
+      "Paprikapulver",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Kichererbsen machen die Tomate sättigender und Kreuzkümmel gibt dem Gericht eine warme Würze.",
+    "s": [
+      "Couscous mit heißem Wasser nach Packungsangabe quellen lassen.",
+      "Zwiebel und Paprika klein schneiden und anbraten.",
+      "Tomaten würfeln und dazugeben.",
+      "Kichererbsen und Gewürze einrühren und mit dem Couscous servieren."
+    ],
+    "t": 20,
+    "d": "Einfach",
+    "b": "Couscous"
+  },
+  {
+    "z": "Tomate",
+    "k": "Salat",
+    "q": "Mittelmeer",
+    "zu": [
+      "Gurke",
+      "Feta",
+      "Oliven",
+      "rote Zwiebel"
+    ],
+    "g": [
+      "Olivenöl",
+      "Zitronensaft",
+      "Oregano",
+      "Pfeffer"
+    ],
+    "e": "Gurke und Tomate sind frisch und saftig, während Feta und Oliven für würzige Gegensätze sorgen.",
+    "s": [
+      "Gurke und Tomate klein schneiden.",
+      "Zwiebel in dünne Streifen schneiden.",
+      "Feta zerbröseln und mit Oliven untermischen.",
+      "Mit Olivenöl, Zitronensaft und Oregano würzen."
+    ],
+    "t": 10,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Paprika",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Tomate",
+      "Zwiebel",
+      "Feta",
+      "Reis"
+    ],
+    "g": [
+      "Olivenöl",
+      "Oregano",
+      "Paprikapulver",
+      "Salz"
+    ],
+    "e": "Die süße Paprika wird durch frische Tomate und salzigen Feta schön ausgeglichen.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Paprika und Zwiebel schneiden und anbraten.",
+      "Tomaten würfeln und einige Minuten mitkochen.",
+      "Feta und Gewürze unterheben und mit Reis servieren."
+    ],
+    "t": 25,
+    "d": "Einfach",
+    "b": "Reis"
+  },
+  {
+    "z": "Paprika",
+    "k": "Gericht",
+    "q": "Asiatisch",
+    "zu": [
+      "Hähnchenbrust",
+      "Brokkoli",
+      "Reis",
+      "Frühlingszwiebel"
+    ],
+    "g": [
+      "Sojasauce",
+      "Ingwer",
+      "Knoblauch",
+      "Sesamöl"
+    ],
+    "e": "Süße Paprika passt gut zu würziger Sojasauce und zartem Hähnchen.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Hähnchen klein schneiden und in Öl rundum durchgaren.",
+      "Paprika und Brokkoli dazugeben und bissfest braten.",
+      "Frühlingszwiebel, Sojasauce, Ingwer und Knoblauch einrühren."
+    ],
+    "t": 30,
+    "d": "Mittel",
+    "b": "Reis"
+  },
+  {
+    "z": "Paprika",
+    "k": "Salat",
+    "q": "Orientalisch",
+    "zu": [
+      "Kichererbsen",
+      "Gurke",
+      "Tomate",
+      "Petersilie"
+    ],
+    "g": [
+      "Zitronensaft",
+      "Olivenöl",
+      "Kreuzkümmel",
+      "Salz"
+    ],
+    "e": "Kichererbsen machen den Salat sättigend und Zitrone hebt die süße Paprika frisch hervor.",
+    "s": [
+      "Paprika, Gurke und Tomate klein schneiden.",
+      "Kichererbsen abspülen und abtropfen lassen.",
+      "Petersilie hacken und alles mischen.",
+      "Mit Zitronensaft, Olivenöl und Kreuzkümmel würzen."
+    ],
+    "t": 10,
+    "d": "Einfach",
+    "b": "Fladenbrot"
+  },
+  {
+    "z": "Karotte",
+    "k": "Gericht",
+    "q": "Asiatisch",
+    "zu": [
+      "Reis",
+      "Brokkoli",
+      "Tofu",
+      "Frühlingszwiebel"
+    ],
+    "g": [
+      "Sojasauce",
+      "Ingwer",
+      "Knoblauch",
+      "Sesamöl"
+    ],
+    "e": "Die süße Karotte bekommt durch Sojasauce eine kräftige Würze und passt gut zu mildem Tofu.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Karotten in dünne Scheiben schneiden und mit Tofu anbraten.",
+      "Brokkoli dazugeben und einige Minuten mitbraten.",
+      "Frühlingszwiebel, Sojasauce, Ingwer und Knoblauch einrühren."
+    ],
+    "t": 25,
+    "d": "Einfach",
+    "b": "Reis"
+  },
+  {
+    "z": "Karotte",
+    "k": "Salat",
+    "q": "Orientalisch",
+    "zu": [
+      "Couscous",
+      "Kichererbsen",
+      "Gurke",
+      "Petersilie"
+    ],
+    "g": [
+      "Zitronensaft",
+      "Olivenöl",
+      "Kreuzkümmel",
+      "Salz"
+    ],
+    "e": "Die süße Karotte passt zu frischer Gurke und bekommt durch Kreuzkümmel eine warme Note.",
+    "s": [
+      "Couscous nach Packungsangabe quellen lassen.",
+      "Karotte und Gurke klein schneiden.",
+      "Kichererbsen und Petersilie untermischen.",
+      "Mit Zitronensaft, Olivenöl und Kreuzkümmel würzen."
+    ],
+    "t": 15,
+    "d": "Einfach",
+    "b": "Fladenbrot"
+  },
+  {
+    "z": "Karotte",
+    "k": "Gericht",
+    "q": "Andere",
+    "zu": [
+      "Kartoffel",
+      "Zwiebel",
+      "Sahne",
+      "Petersilie"
+    ],
+    "g": [
+      "Muskat",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Kartoffel und Sahne machen die Karotte cremig und mild, während Muskat für Wärme sorgt.",
+    "s": [
+      "Kartoffeln und Karotten schälen und würfeln.",
+      "Zwiebel klein schneiden und kurz anbraten.",
+      "Kartoffeln und Karotten mit Wasser weich kochen.",
+      "Sahne und Gewürze dazugeben und mit Petersilie servieren."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Brokkoli",
+    "k": "Gericht",
+    "q": "Asiatisch",
+    "zu": [
+      "Hähnchenbrust",
+      "Reis",
+      "Karotte",
+      "Frühlingszwiebel"
+    ],
+    "g": [
+      "Sojasauce",
+      "Ingwer",
+      "Knoblauch",
+      "Sesamöl"
+    ],
+    "e": "Brokkoli bleibt leicht knackig und passt mit Sojasauce und zartem Hähnchen besonders gut zusammen.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Hähnchen klein schneiden und vollständig durchgaren.",
+      "Brokkoli und Karotte dazugeben und bissfest braten.",
+      "Frühlingszwiebel und Würzmittel einrühren und mit Reis servieren."
+    ],
+    "t": 30,
+    "d": "Mittel",
+    "b": "Reis"
+  },
+  {
+    "z": "Brokkoli",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Nudeln",
+      "Tomate",
+      "Parmesan",
+      "Knoblauch"
+    ],
+    "g": [
+      "Olivenöl",
+      "Basilikum",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Tomate bringt Saftigkeit und Parmesan würzige Cremigkeit zum milden Brokkoli.",
+    "s": [
+      "Nudeln nach Packungsangabe kochen.",
+      "Brokkoli in kleine Stücke teilen und kurz mitkochen.",
+      "Tomate und Knoblauch in Olivenöl anbraten.",
+      "Nudeln und Brokkoli dazugeben und mit Parmesan und Basilikum mischen."
+    ],
+    "t": 25,
+    "d": "Einfach",
+    "b": "Nudeln"
+  },
+  {
+    "z": "Brokkoli",
+    "k": "Salat",
+    "q": "Andere",
+    "zu": [
+      "Ei",
+      "Kartoffel",
+      "Gurke",
+      "rote Zwiebel"
+    ],
+    "g": [
+      "Joghurt",
+      "Senf",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Ei und Kartoffel machen den Brokkolisalat sättigend, während Gurke für Frische sorgt.",
+    "s": [
+      "Kartoffeln weich kochen und abkühlen lassen.",
+      "Brokkoli kurz in heißem Wasser garen und abkühlen lassen.",
+      "Kartoffeln, Brokkoli, Gurke und Ei schneiden.",
+      "Alles mit Joghurt und Senf mischen und würzen."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Spinat",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Nudeln",
+      "Feta",
+      "Tomate",
+      "Knoblauch"
+    ],
+    "g": [
+      "Olivenöl",
+      "Muskat",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Feta bringt Salz und Tomate Frische, wodurch der milde Spinat kräftiger schmeckt.",
+    "s": [
+      "Nudeln nach Packungsangabe kochen.",
+      "Knoblauch in Olivenöl kurz anbraten.",
+      "Spinat und Tomaten dazugeben und zusammenfallen lassen.",
+      "Nudeln und Feta untermischen und mit Muskat würzen."
+    ],
+    "t": 20,
+    "d": "Einfach",
+    "b": "Nudeln"
+  },
+  {
+    "z": "Spinat",
+    "k": "Gericht",
+    "q": "Orientalisch",
+    "zu": [
+      "Kichererbsen",
+      "Tomate",
+      "Zwiebel",
+      "Reis"
+    ],
+    "g": [
+      "Kreuzkümmel",
+      "Kurkuma",
+      "Knoblauch",
+      "Salz"
+    ],
+    "e": "Kichererbsen geben dem Spinat Biss und Kreuzkümmel sorgt für eine warme würzige Note.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Zwiebel und Knoblauch anbraten.",
+      "Tomate, Kichererbsen und Spinat dazugeben.",
+      "Mit Kreuzkümmel und Kurkuma würzen und mit Reis servieren."
+    ],
+    "t": 25,
+    "d": "Einfach",
+    "b": "Reis"
+  },
+  {
+    "z": "Spinat",
+    "k": "Salat",
+    "q": "Andere",
+    "zu": [
+      "Ei",
+      "Feta",
+      "Gurke",
+      "Tomate"
+    ],
+    "g": [
+      "Olivenöl",
+      "Zitronensaft",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Ei und Feta machen den milden Spinat kräftiger und Gurke und Tomate bringen Frische.",
+    "s": [
+      "Spinat waschen und trocken tupfen.",
+      "Gurke und Tomate schneiden.",
+      "Ei hart kochen und in Stücke schneiden.",
+      "Alles mit Feta mischen und mit Zitronensaft und Olivenöl würzen."
+    ],
+    "t": 15,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Champignons",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Nudeln",
+      "Tomate",
+      "Parmesan",
+      "Zwiebel"
+    ],
+    "g": [
+      "Olivenöl",
+      "Knoblauch",
+      "Thymian",
+      "Pfeffer"
+    ],
+    "e": "Champignons sind herzhaft und passen gut zu süßer Tomate und würzigem Parmesan.",
+    "s": [
+      "Nudeln nach Packungsangabe kochen.",
+      "Champignons und Zwiebel in Scheiben schneiden und anbraten.",
+      "Tomaten und Knoblauch dazugeben.",
+      "Nudeln unterheben und mit Parmesan und Thymian servieren."
+    ],
+    "t": 25,
+    "d": "Einfach",
+    "b": "Nudeln"
+  },
+  {
+    "z": "Champignons",
+    "k": "Gericht",
+    "q": "Asiatisch",
+    "zu": [
+      "Reis",
+      "Brokkoli",
+      "Karotte",
+      "Frühlingszwiebel"
+    ],
+    "g": [
+      "Sojasauce",
+      "Ingwer",
+      "Knoblauch",
+      "Sesamöl"
+    ],
+    "e": "Champignons nehmen die würzige Sojasauce gut auf und ergänzen das knackige Gemüse.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Champignons und Karotte anbraten.",
+      "Brokkoli dazugeben und bissfest garen.",
+      "Frühlingszwiebel und Würzmittel einrühren und mit Reis servieren."
+    ],
+    "t": 25,
+    "d": "Einfach",
+    "b": "Reis"
+  },
+  {
+    "z": "Champignons",
+    "k": "Salat",
+    "q": "Andere",
+    "zu": [
+      "Rucola",
+      "Tomate",
+      "Parmesan",
+      "rote Zwiebel"
+    ],
+    "g": [
+      "Olivenöl",
+      "Balsamico",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Warme Champignons geben dem frischen Salat ein herzhaftes Aroma und Parmesan bringt Salz.",
+    "s": [
+      "Champignons in Scheiben schneiden und kurz anbraten.",
+      "Rucola und Tomate vorbereiten.",
+      "Zwiebel schneiden und mit dem Gemüse mischen.",
+      "Warme Champignons und Parmesan darübergeben und würzen."
+    ],
+    "t": 15,
+    "d": "Einfach",
+    "b": "Baguette"
+  },
+  {
+    "z": "Aubergine",
+    "k": "Gericht",
+    "q": "Orientalisch",
+    "zu": [
+      "Kichererbsen",
+      "Tomate",
+      "Zwiebel",
+      "Couscous"
+    ],
+    "g": [
+      "Kreuzkümmel",
+      "Paprikapulver",
+      "Knoblauch",
+      "Salz"
+    ],
+    "e": "Aubergine wird weich und saftig, während Kichererbsen und Kreuzkümmel für kräftige Gegensätze sorgen.",
+    "s": [
+      "Couscous nach Packungsangabe quellen lassen.",
+      "Aubergine und Zwiebel würfeln und anbraten.",
+      "Tomaten und Kichererbsen dazugeben und weich kochen.",
+      "Mit Kreuzkümmel und Paprikapulver würzen und mit Couscous servieren."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Couscous"
+  },
+  {
+    "z": "Aubergine",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Tomate",
+      "Mozzarella",
+      "Basilikum",
+      "Zwiebel"
+    ],
+    "g": [
+      "Olivenöl",
+      "Oregano",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Tomate und Mozzarella bringen Saftigkeit und Cremigkeit zur weichen Aubergine.",
+    "s": [
+      "Aubergine in Scheiben schneiden und anbraten.",
+      "Zwiebel und Tomate daraufgeben und kurz mitgaren.",
+      "Mozzarella in Stücke zupfen und darüber verteilen.",
+      "Mit Oregano würzen und kurz schmelzen lassen."
+    ],
+    "t": 25,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Aubergine",
+    "k": "Salat",
+    "q": "Orientalisch",
+    "zu": [
+      "Gurke",
+      "Tomate",
+      "Joghurt",
+      "Petersilie"
+    ],
+    "g": [
+      "Zitronensaft",
+      "Knoblauch",
+      "Kreuzkümmel",
+      "Salz"
+    ],
+    "e": "Joghurt kühlt die kräftige Aubergine ab und Gurke bringt zusätzliche Frische.",
+    "s": [
+      "Aubergine würfeln und in wenig Öl weich braten.",
+      "Gurke und Tomate klein schneiden.",
+      "Joghurt mit Zitronensaft und Knoblauch verrühren.",
+      "Alles mischen und mit Kreuzkümmel und Petersilie würzen."
+    ],
+    "t": 20,
+    "d": "Einfach",
+    "b": "Fladenbrot"
+  },
+  {
+    "z": "Blumenkohl",
+    "k": "Gericht",
+    "q": "Orientalisch",
+    "zu": [
+      "Kichererbsen",
+      "Tomate",
+      "Reis",
+      "Zwiebel"
+    ],
+    "g": [
+      "Kurkuma",
+      "Kreuzkümmel",
+      "Paprikapulver",
+      "Salz"
+    ],
+    "e": "Kichererbsen machen den milden Blumenkohl kräftiger und die Gewürze geben ihm Wärme.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Blumenkohl in kleine Röschen teilen und mit Zwiebel anbraten.",
+      "Tomate und Kichererbsen dazugeben.",
+      "Mit Kurkuma und Kreuzkümmel würzen und mit Reis servieren."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Reis"
+  },
+  {
+    "z": "Blumenkohl",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Kartoffel",
+      "Parmesan",
+      "Sahne",
+      "Zwiebel"
+    ],
+    "g": [
+      "Muskat",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Parmesan und Sahne machen den milden Blumenkohl cremig und würzig.",
+    "s": [
+      "Kartoffeln und Blumenkohl klein schneiden und vorkochen.",
+      "Zwiebel anbraten und Sahne dazugeben.",
+      "Kartoffeln und Blumenkohl in eine Form geben und die Sahnesauce darüber verteilen.",
+      "Parmesan darüberstreuen und backen, bis alles heiß und goldbraun ist."
+    ],
+    "t": 40,
+    "d": "Mittel",
+    "b": "Brot"
+  },
+  {
+    "z": "Blumenkohl",
+    "k": "Salat",
+    "q": "Andere",
+    "zu": [
+      "Ei",
+      "Kartoffel",
+      "Gurke",
+      "Frühlingszwiebel"
+    ],
+    "g": [
+      "Joghurt",
+      "Senf",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Kartoffel und Ei machen den Blumenkohlsalat sättigend und Gurke sorgt für Frische.",
+    "s": [
+      "Kartoffeln und Blumenkohl gar kochen und abkühlen lassen.",
+      "Ei hart kochen.",
+      "Alles mit Gurke und Frühlingszwiebel klein schneiden.",
+      "Mit Joghurt und Senf mischen und würzen."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Kürbis",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Feta",
+      "Kichererbsen",
+      "Zwiebel",
+      "Couscous"
+    ],
+    "g": [
+      "Olivenöl",
+      "Thymian",
+      "Paprikapulver",
+      "Salz"
+    ],
+    "e": "Süßer Kürbis und salziger Feta ergänzen sich gut und Kichererbsen machen das Gericht sättigend.",
+    "s": [
+      "Kürbis und Zwiebel würfeln und mit Olivenöl anbraten.",
+      "Kichererbsen dazugeben und mitgaren.",
+      "Couscous nach Packungsangabe zubereiten.",
+      "Kürbis mit Couscous mischen und Feta darüberbröseln."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Couscous"
+  },
+  {
+    "z": "Kürbis",
+    "k": "Gericht",
+    "q": "Orientalisch",
+    "zu": [
+      "Kichererbsen",
+      "Tomate",
+      "Spinat",
+      "Reis"
+    ],
+    "g": [
+      "Kreuzkümmel",
+      "Kurkuma",
+      "Zimt",
+      "Salz"
+    ],
+    "e": "Die Süße des Kürbisses passt zu warmem Kreuzkümmel und frischer Tomate.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Kürbis würfeln und anbraten.",
+      "Tomate und Kichererbsen dazugeben und weich kochen.",
+      "Spinat unterheben und mit Kreuzkümmel, Kurkuma und wenig Zimt würzen."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Reis"
+  },
+  {
+    "z": "Kürbis",
+    "k": "Salat",
+    "q": "Andere",
+    "zu": [
+      "Feta",
+      "Rucola",
+      "Apfel",
+      "Walnüsse"
+    ],
+    "g": [
+      "Olivenöl",
+      "Balsamico",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Süßer Kürbis und Apfel treffen auf salzigen Feta und herbe Walnüsse.",
+    "s": [
+      "Kürbis würfeln und weich braten oder backen.",
+      "Rucola waschen und Apfel klein schneiden.",
+      "Kürbis mit Rucola und Apfel mischen.",
+      "Feta und Walnüsse darübergeben und mit Balsamico würzen."
+    ],
+    "t": 25,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Süßkartoffel",
+    "k": "Gericht",
+    "q": "Asiatisch",
+    "zu": [
+      "Brokkoli",
+      "Tofu",
+      "Reis",
+      "Frühlingszwiebel"
+    ],
+    "g": [
+      "Sojasauce",
+      "Ingwer",
+      "Knoblauch",
+      "Sesamöl"
+    ],
+    "e": "Die süße Kartoffel wird durch salzige Sojasauce und frischen Ingwer gut ausgeglichen.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Süßkartoffel würfeln und weich braten.",
+      "Tofu und Brokkoli dazugeben und mitbraten.",
+      "Frühlingszwiebel und Würzmittel einrühren und mit Reis servieren."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Reis"
+  },
+  {
+    "z": "Süßkartoffel",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Feta",
+      "Kichererbsen",
+      "Tomate",
+      "rote Zwiebel"
+    ],
+    "g": [
+      "Olivenöl",
+      "Oregano",
+      "Paprikapulver",
+      "Salz"
+    ],
+    "e": "Feta bringt Salz und Tomate Frische zur süßen und weichen Süßkartoffel.",
+    "s": [
+      "Süßkartoffel würfeln und anbraten.",
+      "Zwiebel und Kichererbsen dazugeben.",
+      "Tomate unterheben und einige Minuten mitgaren.",
+      "Feta darüberbröseln und mit Oregano würzen."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Süßkartoffel",
+    "k": "Salat",
+    "q": "Orientalisch",
+    "zu": [
+      "Kichererbsen",
+      "Gurke",
+      "Tomate",
+      "Petersilie"
+    ],
+    "g": [
+      "Zitronensaft",
+      "Olivenöl",
+      "Kreuzkümmel",
+      "Salz"
+    ],
+    "e": "Die süße Süßkartoffel passt zu frischer Gurke und würzigem Kreuzkümmel.",
+    "s": [
+      "Süßkartoffel würfeln und weich garen.",
+      "Gurke und Tomate klein schneiden.",
+      "Kichererbsen und Petersilie dazugeben.",
+      "Alles mischen und mit Zitronensaft und Kreuzkümmel würzen."
+    ],
+    "t": 25,
+    "d": "Einfach",
+    "b": "Fladenbrot"
+  },
+  {
+    "z": "Kartoffel",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Tomate",
+      "Zucchini",
+      "Feta",
+      "Zwiebel"
+    ],
+    "g": [
+      "Olivenöl",
+      "Oregano",
+      "Knoblauch",
+      "Salz"
+    ],
+    "e": "Kartoffel macht das Gericht sättigend und Feta und Tomate bringen würzige Frische.",
+    "s": [
+      "Kartoffeln klein schneiden und in Öl anbraten.",
+      "Zwiebel und Zucchini dazugeben.",
+      "Tomaten würfeln und mitgaren, bis die Kartoffeln weich sind.",
+      "Feta darübergeben und mit Oregano würzen."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Kartoffel",
+    "k": "Gericht",
+    "q": "Orientalisch",
+    "zu": [
+      "Kichererbsen",
+      "Spinat",
+      "Tomate",
+      "Zwiebel"
+    ],
+    "g": [
+      "Kreuzkümmel",
+      "Kurkuma",
+      "Paprikapulver",
+      "Salz"
+    ],
+    "e": "Kartoffel und Kichererbsen machen satt und Spinat bringt eine frische grüne Note.",
+    "s": [
+      "Kartoffeln würfeln und weich kochen.",
+      "Zwiebel anbraten und Tomate dazugeben.",
+      "Kichererbsen und Kartoffeln einrühren.",
+      "Spinat unterheben und mit Kreuzkümmel und Kurkuma würzen."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Fladenbrot"
+  },
+  {
+    "z": "Kartoffel",
+    "k": "Salat",
+    "q": "Andere",
+    "zu": [
+      "Gurke",
+      "Ei",
+      "Radieschen",
+      "Frühlingszwiebel"
+    ],
+    "g": [
+      "Joghurt",
+      "Senf",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Kartoffel und Ei sind sättigend, während Gurke und Radieschen für Frische und Knackigkeit sorgen.",
+    "s": [
+      "Kartoffeln weich kochen und abkühlen lassen.",
+      "Ei hart kochen und schneiden.",
+      "Gurke, Radieschen und Frühlingszwiebel klein schneiden.",
+      "Alles mit Joghurt und Senf mischen und würzen."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Gurke",
+    "k": "Salat",
+    "q": "Mittelmeer",
+    "zu": [
+      "Tomate",
+      "Feta",
+      "Oliven",
+      "rote Zwiebel"
+    ],
+    "g": [
+      "Olivenöl",
+      "Zitronensaft",
+      "Oregano",
+      "Pfeffer"
+    ],
+    "e": "Die frische Gurke passt zu saftiger Tomate und salzigem Feta.",
+    "s": [
+      "Gurke und Tomate klein schneiden.",
+      "Zwiebel in dünne Streifen schneiden.",
+      "Feta und Oliven dazugeben.",
+      "Mit Olivenöl, Zitronensaft und Oregano würzen."
+    ],
+    "t": 10,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Gurke",
+    "k": "Salat",
+    "q": "Asiatisch",
+    "zu": [
+      "Karotte",
+      "Paprika",
+      "Frühlingszwiebel",
+      "Erdnüsse"
+    ],
+    "g": [
+      "Sojasauce",
+      "Reisessig",
+      "Sesamöl",
+      "Ingwer"
+    ],
+    "e": "Knackige Karotte und Paprika ergänzen die kühle Gurke, während Sesamöl für kräftigen Geschmack sorgt.",
+    "s": [
+      "Gurke, Karotte und Paprika in dünne Streifen schneiden.",
+      "Frühlingszwiebel schneiden und dazugeben.",
+      "Erdnüsse darüberstreuen.",
+      "Mit Sojasauce, Reisessig, Sesamöl und Ingwer mischen."
+    ],
+    "t": 10,
+    "d": "Einfach",
+    "b": "Reis"
+  },
+  {
+    "z": "Gurke",
+    "k": "Salat",
+    "q": "Orientalisch",
+    "zu": [
+      "Joghurt",
+      "Minze",
+      "Tomate",
+      "rote Zwiebel"
+    ],
+    "g": [
+      "Zitronensaft",
+      "Knoblauch",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Joghurt macht die Gurke cremig und Minze verstärkt ihre frische Note.",
+    "s": [
+      "Gurke klein schneiden und leicht salzen.",
+      "Tomate und Zwiebel schneiden.",
+      "Joghurt mit Zitronensaft und Knoblauch verrühren.",
+      "Alles mischen und Minze darübergeben."
+    ],
+    "t": 10,
+    "d": "Einfach",
+    "b": "Fladenbrot"
+  },
+  {
+    "z": "Lauch",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Kartoffel",
+      "Karotte",
+      "Sahne",
+      "Zwiebel"
+    ],
+    "g": [
+      "Muskat",
+      "Salz",
+      "Pfeffer",
+      "Petersilie"
+    ],
+    "e": "Kartoffel und Sahne machen den Lauch mild und cremig, während Karotte etwas Süße bringt.",
+    "s": [
+      "Lauch, Kartoffeln und Karotten schneiden.",
+      "Zwiebel in einem Topf anbraten.",
+      "Gemüse mit Wasser weich kochen.",
+      "Sahne und Gewürze einrühren und mit Petersilie servieren."
+    ],
+    "t": 35,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Lauch",
+    "k": "Gericht",
+    "q": "Asiatisch",
+    "zu": [
+      "Hähnchenbrust",
+      "Reis",
+      "Karotte",
+      "Champignons"
+    ],
+    "g": [
+      "Sojasauce",
+      "Ingwer",
+      "Knoblauch",
+      "Sesamöl"
+    ],
+    "e": "Lauch wird weich und mild und passt gut zu würziger Sojasauce und zartem Hähnchen.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Hähnchen klein schneiden und vollständig durchgaren.",
+      "Lauch, Karotte und Champignons dazugeben.",
+      "Sojasauce, Ingwer, Knoblauch und Sesamöl einrühren und mit Reis servieren."
+    ],
+    "t": 30,
+    "d": "Mittel",
+    "b": "Reis"
+  },
+  {
+    "z": "Lauch",
+    "k": "Salat",
+    "q": "Andere",
+    "zu": [
+      "Kartoffel",
+      "Ei",
+      "Gurke",
+      "Frühlingszwiebel"
+    ],
+    "g": [
+      "Joghurt",
+      "Senf",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Milder Lauch passt gut zu cremigem Joghurt und frischer Gurke.",
+    "s": [
+      "Kartoffeln weich kochen und abkühlen lassen.",
+      "Ei hart kochen und schneiden.",
+      "Lauch und Gurke fein schneiden.",
+      "Alles mit Joghurt und Senf mischen und würzen."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Hähnchenbrust",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Tomate",
+      "Zucchini",
+      "Paprika",
+      "Reis"
+    ],
+    "g": [
+      "Olivenöl",
+      "Knoblauch",
+      "Oregano",
+      "Salz"
+    ],
+    "e": "Zartes Hähnchen passt zu saftigem Gemüse und Oregano gibt dem Gericht mediterranen Geschmack.",
+    "s": [
+      "Hähnchen in Stücke schneiden und rundum anbraten.",
+      "Paprika und Zucchini dazugeben und mitbraten.",
+      "Tomate und Knoblauch einrühren.",
+      "Alles garen, bis das Hähnchen vollständig durchgegart ist, und mit Reis servieren."
+    ],
+    "t": 30,
+    "d": "Mittel",
+    "b": "Reis"
+  },
+  {
+    "z": "Hähnchenbrust",
+    "k": "Gericht",
+    "q": "Asiatisch",
+    "zu": [
+      "Brokkoli",
+      "Karotte",
+      "Paprika",
+      "Reis"
+    ],
+    "g": [
+      "Sojasauce",
+      "Ingwer",
+      "Knoblauch",
+      "Sesamöl"
+    ],
+    "e": "Sojasauce bringt kräftige Würze zum milden Hähnchen und passt gut zu knackigem Gemüse.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Hähnchen klein schneiden und vollständig durchgaren.",
+      "Brokkoli, Karotte und Paprika dazugeben.",
+      "Sojasauce, Ingwer, Knoblauch und Sesamöl einrühren und mit Reis servieren."
+    ],
+    "t": 30,
+    "d": "Mittel",
+    "b": "Reis"
+  },
+  {
+    "z": "Hähnchenbrust",
+    "k": "Salat",
+    "q": "Orientalisch",
+    "zu": [
+      "Couscous",
+      "Gurke",
+      "Tomate",
+      "Petersilie"
+    ],
+    "g": [
+      "Zitronensaft",
+      "Olivenöl",
+      "Kreuzkümmel",
+      "Salz"
+    ],
+    "e": "Das Hähnchen macht den frischen Salat sättigend und Zitrone gibt ihm einen klaren frischen Geschmack.",
+    "s": [
+      "Couscous nach Packungsangabe quellen lassen.",
+      "Hähnchen klein schneiden und vollständig durchgaren.",
+      "Gurke und Tomate schneiden und mit Couscous mischen.",
+      "Hähnchen und Petersilie dazugeben und mit Zitrone und Kreuzkümmel würzen."
+    ],
+    "t": 25,
+    "d": "Mittel",
+    "b": "Fladenbrot"
+  },
+  {
+    "z": "Hackfleisch",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Tomate",
+      "Zucchini",
+      "Paprika",
+      "Zwiebel"
+    ],
+    "g": [
+      "Olivenöl",
+      "Oregano",
+      "Knoblauch",
+      "Salz"
+    ],
+    "e": "Kräftiges Hackfleisch passt zu süßer Paprika und saftiger Tomate, während Oregano für Frische sorgt.",
+    "s": [
+      "Hackfleisch in einer Pfanne krümelig braten, bis es vollständig durchgegart ist.",
+      "Zwiebel und Paprika dazugeben.",
+      "Zucchini und Tomate einrühren und weich kochen.",
+      "Mit Knoblauch und Oregano würzen und mit Brot servieren."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Hackfleisch",
+    "k": "Gericht",
+    "q": "Orientalisch",
+    "zu": [
+      "Kichererbsen",
+      "Tomate",
+      "Zwiebel",
+      "Reis"
+    ],
+    "g": [
+      "Kreuzkümmel",
+      "Paprikapulver",
+      "Zimt",
+      "Salz"
+    ],
+    "e": "Kreuzkümmel und eine kleine Menge Zimt geben dem kräftigen Hackfleisch eine warme Würze.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Hackfleisch mit Zwiebel braten, bis es vollständig durchgegart ist.",
+      "Tomate und Kichererbsen dazugeben.",
+      "Mit Kreuzkümmel, Paprikapulver und wenig Zimt würzen und mit Reis servieren."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Reis"
+  },
+  {
+    "z": "Hackfleisch",
+    "k": "Gericht",
+    "q": "Andere",
+    "zu": [
+      "Kartoffel",
+      "Karotte",
+      "Erbsen",
+      "Zwiebel"
+    ],
+    "g": [
+      "Paprikapulver",
+      "Majoran",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Kartoffeln und Karotten machen das würzige Hackfleischgericht mild und sättigend.",
+    "s": [
+      "Kartoffeln und Karotten würfeln.",
+      "Hackfleisch und Zwiebel anbraten, bis das Hackfleisch vollständig durchgegart ist.",
+      "Kartoffeln, Karotten und Erbsen dazugeben.",
+      "Mit etwas Wasser weich kochen und würzen."
+    ],
+    "t": 35,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Lachs",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Kartoffel",
+      "Spinat",
+      "Tomate",
+      "Zitrone"
+    ],
+    "g": [
+      "Olivenöl",
+      "Knoblauch",
+      "Dill",
+      "Salz"
+    ],
+    "e": "Lachs ist mild und saftig und passt zu frischer Zitrone und leicht bitterem Spinat.",
+    "s": [
+      "Kartoffeln in Stücke schneiden und weich kochen.",
+      "Lachs in einer Pfanne bei mittlerer Hitze garen, bis er innen vollständig durch ist.",
+      "Spinat und Tomate kurz dazugeben.",
+      "Mit Zitrone, Dill und Knoblauch würzen und mit Kartoffeln servieren."
+    ],
+    "t": 30,
+    "d": "Mittel",
+    "b": "Kartoffeln"
+  },
+  {
+    "z": "Lachs",
+    "k": "Gericht",
+    "q": "Asiatisch",
+    "zu": [
+      "Reis",
+      "Brokkoli",
+      "Karotte",
+      "Frühlingszwiebel"
+    ],
+    "g": [
+      "Sojasauce",
+      "Ingwer",
+      "Knoblauch",
+      "Sesamöl"
+    ],
+    "e": "Sojasauce und Ingwer geben dem milden Lachs kräftige Würze und passen gut zu knackigem Gemüse.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Lachs in einer Pfanne garen, bis er innen vollständig durch ist.",
+      "Brokkoli und Karotte dazugeben und bissfest garen.",
+      "Frühlingszwiebel und Würzmittel einrühren und mit Reis servieren."
+    ],
+    "t": 30,
+    "d": "Mittel",
+    "b": "Reis"
+  },
+  {
+    "z": "Lachs",
+    "k": "Salat",
+    "q": "Andere",
+    "zu": [
+      "Gurke",
+      "Kartoffel",
+      "Ei",
+      "Dill"
+    ],
+    "g": [
+      "Zitronensaft",
+      "Joghurt",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Gurke und Zitrone bringen Frische zum kräftigen Lachs und Kartoffel macht den Salat sättigend.",
+    "s": [
+      "Kartoffeln weich kochen und abkühlen lassen.",
+      "Lachs garen und in Stücke teilen.",
+      "Gurke und Ei schneiden und mit den Kartoffeln mischen.",
+      "Lachs und Dill dazugeben und mit Joghurt und Zitrone anmachen."
+    ],
+    "t": 30,
+    "d": "Mittel",
+    "b": "Brot"
+  },
+  {
+    "z": "Thunfisch (Dose)",
+    "k": "Salat",
+    "q": "Mittelmeer",
+    "zu": [
+      "Tomate",
+      "Gurke",
+      "weiße Bohnen",
+      "rote Zwiebel"
+    ],
+    "g": [
+      "Olivenöl",
+      "Zitronensaft",
+      "Oregano",
+      "Pfeffer"
+    ],
+    "e": "Thunfisch und Bohnen machen den Salat kräftig und sättigend, während Tomate und Gurke Frische bringen.",
+    "s": [
+      "Tomate und Gurke klein schneiden.",
+      "Zwiebel fein schneiden.",
+      "Bohnen abspülen und mit Thunfisch untermischen.",
+      "Mit Olivenöl, Zitronensaft und Oregano würzen."
+    ],
+    "t": 10,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Thunfisch (Dose)",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Nudeln",
+      "Tomate",
+      "Oliven",
+      "Zwiebel"
+    ],
+    "g": [
+      "Olivenöl",
+      "Knoblauch",
+      "Oregano",
+      "Pfeffer"
+    ],
+    "e": "Würziger Thunfisch passt gut zu saftiger Tomate und salzigen Oliven.",
+    "s": [
+      "Nudeln nach Packungsangabe kochen.",
+      "Zwiebel und Knoblauch in Olivenöl anbraten.",
+      "Tomate und Oliven dazugeben.",
+      "Thunfisch und Nudeln unterheben und mit Oregano würzen."
+    ],
+    "t": 20,
+    "d": "Einfach",
+    "b": "Nudeln"
+  },
+  {
+    "z": "Thunfisch (Dose)",
+    "k": "Salat",
+    "q": "Andere",
+    "zu": [
+      "Kartoffel",
+      "Ei",
+      "Gurke",
+      "Mais"
+    ],
+    "g": [
+      "Joghurt",
+      "Senf",
+      "Salz",
+      "Pfeffer"
+    ],
+    "e": "Thunfisch und Ei geben kräftigen Geschmack, während Gurke und Mais für Frische und leichte Süße sorgen.",
+    "s": [
+      "Kartoffeln weich kochen und abkühlen lassen.",
+      "Ei hart kochen und schneiden.",
+      "Kartoffeln, Gurke und Ei mit Mais und Thunfisch mischen.",
+      "Joghurt und Senf unterrühren und würzen."
+    ],
+    "t": 30,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Eier",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Tomate",
+      "Paprika",
+      "Zwiebel",
+      "Feta"
+    ],
+    "g": [
+      "Olivenöl",
+      "Oregano",
+      "Paprikapulver",
+      "Salz"
+    ],
+    "e": "Tomate und Paprika bringen Saftigkeit und Süße, während Feta die Eier würzig ergänzt.",
+    "s": [
+      "Tomate, Paprika und Zwiebel klein schneiden und anbraten.",
+      "Eier in einer Schüssel verquirlen.",
+      "Eier über das Gemüse geben und stocken lassen.",
+      "Feta darüberbröseln und mit Oregano würzen."
+    ],
+    "t": 15,
+    "d": "Einfach",
+    "b": "Brot"
+  },
+  {
+    "z": "Eier",
+    "k": "Gericht",
+    "q": "Asiatisch",
+    "zu": [
+      "Reis",
+      "Karotte",
+      "Erbsen",
+      "Frühlingszwiebel"
+    ],
+    "g": [
+      "Sojasauce",
+      "Sesamöl",
+      "Knoblauch",
+      "Pfeffer"
+    ],
+    "e": "Eier machen den gebratenen Reis weich und sättigend und Sojasauce sorgt für kräftige Würze.",
+    "s": [
+      "Reis nach Packungsangabe kochen und abkühlen lassen.",
+      "Karotte und Erbsen anbraten.",
+      "Reis dazugeben und mitbraten.",
+      "Eier unterrühren und vollständig stocken lassen, dann Sojasauce und Frühlingszwiebel dazugeben."
+    ],
+    "t": 25,
+    "d": "Einfach",
+    "b": "Reis"
+  },
+  {
+    "z": "Eier",
+    "k": "Salat",
+    "q": "Orientalisch",
+    "zu": [
+      "Tomate",
+      "Gurke",
+      "Kichererbsen",
+      "Petersilie"
+    ],
+    "g": [
+      "Zitronensaft",
+      "Olivenöl",
+      "Kreuzkümmel",
+      "Salz"
+    ],
+    "e": "Ei und Kichererbsen machen den frischen Salat sättigend und Zitrone passt gut zu beiden.",
+    "s": [
+      "Eier hart kochen und abkühlen lassen.",
+      "Tomate und Gurke schneiden.",
+      "Kichererbsen und Petersilie dazugeben.",
+      "Eier in Stücke schneiden, untermischen und mit Zitrone und Kreuzkümmel würzen."
+    ],
+    "t": 15,
+    "d": "Einfach",
+    "b": "Fladenbrot"
+  },
+  {
+    "z": "Garnelen",
+    "k": "Gericht",
+    "q": "Asiatisch",
+    "zu": [
+      "Reis",
+      "Brokkoli",
+      "Paprika",
+      "Frühlingszwiebel"
+    ],
+    "g": [
+      "Sojasauce",
+      "Ingwer",
+      "Knoblauch",
+      "Sesamöl"
+    ],
+    "e": "Garnelen schmecken mild und leicht süß und passen gut zu würziger Sojasauce und knackigem Gemüse.",
+    "s": [
+      "Reis nach Packungsangabe kochen.",
+      "Paprika und Brokkoli anbraten.",
+      "Garnelen dazugeben und garen, bis sie vollständig durchgegart sind.",
+      "Frühlingszwiebel und Würzmittel einrühren und mit Reis servieren."
+    ],
+    "t": 25,
+    "d": "Mittel",
+    "b": "Reis"
+  },
+  {
+    "z": "Garnelen",
+    "k": "Gericht",
+    "q": "Mittelmeer",
+    "zu": [
+      "Nudeln",
+      "Tomate",
+      "Knoblauch",
+      "Zucchini"
+    ],
+    "g": [
+      "Olivenöl",
+      "Basilikum",
+      "Chili",
+      "Salz"
+    ],
+    "e": "Die süßlichen Garnelen passen zu saftiger Tomate und mildem Gemüse, während Knoblauch für Würze sorgt.",
+    "s": [
+      "Nudeln nach Packungsangabe kochen.",
+      "Zucchini und Knoblauch in Olivenöl anbraten.",
+      "Tomate und Garnelen dazugeben und garen, bis die Garnelen vollständig durch sind.",
+      "Nudeln untermischen und mit Basilikum würzen."
+    ],
+    "t": 25,
+    "d": "Mittel",
+    "b": "Nudeln"
+  },
+  {
+    "z": "Garnelen",
+    "k": "Salat",
+    "q": "Andere",
+    "zu": [
+      "Gurke",
+      "Avocado",
+      "Tomate",
+      "Mais"
+    ],
+    "g": [
+      "Limettensaft",
+      "Olivenöl",
+      "Knoblauch",
+      "Salz"
+    ],
+    "e": "Gurke und Limette bringen Frische zu den milden Garnelen und Avocado macht den Salat cremig.",
+    "s": [
+      "Garnelen in einer Pfanne vollständig durchgaren und abkühlen lassen.",
+      "Gurke, Tomate und Avocado schneiden.",
+      "Mais und Garnelen dazugeben.",
+      "Mit Limettensaft, Olivenöl und Knoblauch mischen."
+    ],
+    "t": 20,
+    "d": "Einfach",
+    "b": "Brot"
+  }
+]
